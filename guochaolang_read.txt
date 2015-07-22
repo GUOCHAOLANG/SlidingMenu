@@ -1,0 +1,2 @@
+SlidingMenu是一个开源的Android库，能够让开发者轻松开发一款应用，实现类似于Google+、Youtube和Facebook应用
+中非常流行的滑动式菜单。
